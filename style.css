@@ -1,0 +1,108 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.body{
+  background-color: lightgray;
+  font-family: garamond;
+  font-size: 18px;
+}
+
+.bg {
+  background: #a8e100;
+  border: solid black;
+  color: #965724;
+}
+
+.bgbox{
+  background: darkmagenta;
+  border: solid black;
+  border-width: 7px 7px 7px 7px;
+  margin-left: auto;
+  margin-right: auto;
+  box-align: center;
+  padding: 5px;
+}
+
+hr.line {
+  border: 3px dashed orange;
+}
+
+.carousel slide{
+  color: green;
+}
+
+.moveleft{
+  margin-right:100px;
+  right: 60px;
+}
+
+.margin{
+  margin: 10px;
+}
+
+.imagebox{
+  border: solid black;
+  border-width: 7 7px 7px 7px;
+  min-height: 200px;
+  position: relative;
+  box-align: left;
+  min-width: 20px;
+  padding: 20px;
+}
+
+.boldthis{
+  font-weight: bolder;
+  font-family: Geneva;
+  color: darkmagenta;
+}
+
+img{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  left: 50px;
+}
+
+.darkmagenta{
+  color: darkmagenta;
+}
+
+.black{
+ background-color: black; 
+}
+
+.thisbox{
+  border: solid black;
+  border-width: 7px 7px 7px 7px;
+  margin-left: auto;
+  margin-right: auto;
+  box-align: center;
+  padding: 5px;
+}
+
+.white{
+  background-color: #c2b3b3;
+}
+
+.shrink{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.colorcancel{
+ color: seashell; 
+}
+
+.hover:hover{
+  filter: saturate(2);
+}
+
+.hover2:hover{
+  filter: brightness(150%);
+}
